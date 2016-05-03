@@ -1,0 +1,10 @@
+c:\users\romchick\documents\visual studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\bin\Debug\EntityCodeFirstTest.exe.config
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\bin\Debug\EntityCodeFirstTest.exe
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\bin\Debug\EntityCodeFirstTest.pdb
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\bin\Debug\EntityFramework.dll
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\bin\Debug\EntityFramework.xml
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\obj\Debug\EntityCodeFirstTest.csprojResolveAssemblyReference.cache
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\obj\Debug\EntityCodeFirstTest.exe
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\EntityCodeFirstTest\EntityCodeFirstTest\obj\Debug\EntityCodeFirstTest.pdb
